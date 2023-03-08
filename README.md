@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayan Khan</h1>
 <h3 align="center">A passionate Coder</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/khanayanm](https://github.com/fffaheem)
+- 👨‍💻 All of my projects are available at [https://github.com/khanayanm](https://github.com/khanayanm)
 
 - 📫 How to reach me *ayankhanst83@gmail.com*
 
